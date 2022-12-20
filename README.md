@@ -17,7 +17,7 @@ Azure Platform Governance has the following focus areas
 
 This repository contains a sample template for Azure platform governance document which can be found from [here](https://github.com/kalleantero/Azure.Governance/blob/main/Azure-Platform-Governance.md). Template has defined structure which contains eight main policies which are introduced below. Requirements for all these main policies should be determined per organization. Template also has some recommendations and best practices.
 
-This template has influences from the [Microsoft Cloud Adoption Framework for Azure (CAF)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) and [Microsoft Azure Well-Architected Framework (WAF)](https://learn.microsoft.com/en-us/azure/architecture/framework/) which are key frameworks for cloud adoption.
+This template has got influences from the [Microsoft Cloud Adoption Framework for Azure (CAF)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) and [Microsoft Azure Well-Architected Framework (WAF)](https://learn.microsoft.com/en-us/azure/architecture/framework/) which are key frameworks for cloud adoption.
 
 Template contains the following main policies:
 
