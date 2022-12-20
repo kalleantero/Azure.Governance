@@ -2,9 +2,9 @@
 
 Azure Platform Governance is a strategic enabler which determines guidelines, processes and technologies how to build a secure Azure environment according to best practices and organization requirements. Azure Platform Governance document gathers all these requirements to a single document. Azure Platform Governance ensures that all services developed by multiple teams across multiple subscriptions are created according to commonly agreed guidelines.
 
-Main focus areas for Azure Platform Governance
+Azure Platform Governance has the following focus areas
 - Ensure secure solutions
-- Ensure operation effectiviness
+- Ensure operation effectiveness
 - Ensure unified way of creating/developing services
 - Ensure operational excellency
 - Ensure business continuity
