@@ -21,30 +21,30 @@ This template has got influences from the [Microsoft Cloud Adoption Framework fo
 
 Template contains the following main policies:
 
-### [Management policy](https://github.com/kalleantero/Azure.Governance/edit/main/Azure-Platform-Governance.md#20-management-hierarchy)
+### [Management policy](https://github.com/kalleantero/Azure.Governance/blob/main/Azure-Platform-Governance.md#20-management-hierarchy)
 
 Management hierarchy policy determines organization's guidelines how to produce Management groups & Azure subscriptions and how to model Resource Groups.
 
-### [Naming convention policy](https://github.com/kalleantero/Azure.Governance/edit/main/Azure-Platform-Governance.md#30-naming-convention)
+### [Naming convention policy](https://github.com/kalleantero/Azure.Governance/blob/main/Azure-Platform-Governance.md#30-naming-convention)
 
 Naming convention policy ensures standardized and unified naming for all Azure Resources across multiple subscriptions.
 
-### [Compliency policy](https://github.com/kalleantero/Azure.Governance/edit/main/Azure-Platform-Governance.md#40-compliency)
+### [Compliency policy](https://github.com/kalleantero/Azure.Governance/blob/main/Azure-Platform-Governance.md#40-compliency)
 
 Typically organizations have many compliency related requirements. Compliency policy determines things like where data or services can be located and how logging should be configured across services.
 
-### [Recommendations for specific Azure resources](https://github.com/kalleantero/Azure.Governance/edit/main/Azure-Platform-Governance.md#50-recommendations-for-specific-azure-resources)
+### [Recommendations for specific Azure resources](https://github.com/kalleantero/Azure.Governance/blob/main/Azure-Platform-Governance.md#50-recommendations-for-specific-azure-resources)
 
 This section contains Azure resourcetype specific recommendations.
 
-### [Security policy](https://github.com/kalleantero/Azure.Governance/edit/main/Azure-Platform-Governance.md#60-security)
+### [Security policy](https://github.com/kalleantero/Azure.Governance/blob/main/Azure-Platform-Governance.md#60-security)
 
 Security policy determines best practices how services must be developed to Azure platform to ensure hardened security.
 
-### [Operational excellency policy](https://github.com/kalleantero/Azure.Governance/edit/main/Azure-Platform-Governance.md#70-operational-excellency)
+### [Operational excellency policy](https://github.com/kalleantero/Azure.Governance/blob/main/Azure-Platform-Governance.md#70-operational-excellency)
 
 Operational excellency policy defines what kind of tools and processes teams must implement and follow to ensure that production environment is working and if something happens then team is notified about the situation.
 
-### [Disaster Recovery policy](https://github.com/kalleantero/Azure.Governance/edit/main/Azure-Platform-Governance.md#80-disaster-recovery)
+### [Disaster Recovery policy](https://github.com/kalleantero/Azure.Governance/blob/main/Azure-Platform-Governance.md#80-disaster-recovery)
 
 Disaster recovery focuses on business continuity and ensuring that environment and applications are up and running as soon as possible after disaster situation.
